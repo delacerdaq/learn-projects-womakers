@@ -1,2 +1,3 @@
-# learn-projects-womakers
-Repository for files and activities related to the "Github for Women" course. Module 5: Project Management.
+# WoMakersCode
+Repository for files and activities related to the "Github for Women" course. <br> 
+Module 5: Project Management.
